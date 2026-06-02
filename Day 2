@@ -1,0 +1,41 @@
+## Key Learnings :
+
+Through this exercise, I learned:
+Prompt quality directly affects AI output quality.
+Clear instructions produce more focused and useful responses.
+Adding roles, format requirements, examples, and reasoning instructions improves results significantly.
+Good prompt design is iterative — refining prompts improves outcomes.
+Visual organization plays a major role in information understanding.
+
+## What I Worked On :
+Generated multiple AI outputs on the same topic.
+Compared explanation depth, structure, examples, and design choices.
+Analyzed how prompt wording changes response behavior.
+Studied effective prompt engineering techniques.
+Practiced creating structured, human-readable educational content.
+
+## Prompts Used :
+
+Prompt 1
+Create a visual explainer about Prompt Engineering for beginners.
+Include:
+- Definition
+- Vague vs precise prompt examples
+- Key techniques
+- Anatomy of a good prompt
+- Clean infographic layout
+
+Prompt 2
+Create an infographic explaining Prompt Engineering.
+Include:
+- What it is
+- Before vs after prompt examples
+- Core techniques
+- Workflow for building prompts
+- Common mistakes to avoid
+- Beginner-friendly visual structure
+
+
+## Final Takeaway :
+
+This activity helped me understand that Prompt Engineering is not just about asking questions — it is about designing instructions strategically to guide AI toward clearer, more relevant, and higher-quality outputs.
